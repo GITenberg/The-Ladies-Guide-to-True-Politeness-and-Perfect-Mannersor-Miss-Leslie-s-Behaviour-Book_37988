@@ -1,0 +1,35 @@
+_repo: The-Ladies-Guide-to-True-Politeness-and-Perfect-Mannersor-Miss-Leslie-s-Behaviour-Book_37988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+description: ''
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette for women'
+- !lcc 'BJ'
+tableOfContents: Suggestions to visiters -- The visited -- Tea visiters -- The entrée
+  -- Introductions -- Conduct in the street -- Shopping -- Places of amusement --
+  Travelling -- Deportment at a hotel -- Hotel dinner -- Ship-board -- Letters --
+  Presents -- Conversation -- Incorrect words -- Borrowing -- Offences -- Obligations
+  to gentlemen -- Conduct to literary women -- Suggestions to inexperienced authors
+  -- Children -- Decorum in church -- Evening parties -- Miscellanies.
+title: 'The Ladies'' Guide to True Politeness and Perfect Manners
+
+  or, Miss Leslie''s Behaviour Book'
+url: http://www.gutenberg.org/ebooks/37988
