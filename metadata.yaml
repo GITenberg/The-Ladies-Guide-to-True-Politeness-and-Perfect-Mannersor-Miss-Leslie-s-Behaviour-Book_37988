@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2148'
     url: http://www.gutenberg.org/2009/agents/2148
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37988#The-Ladies-Guide-to-True-Politeness-and-Perfect-Mannersor-Miss-Leslie-s-Behaviour-Book
 gutenberg_issued: '2011-11-12'
 gutenberg_type: Text
 identifiers:
